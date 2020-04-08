@@ -1,4 +1,4 @@
-// assuming that the input
+// assuming that the input fulfills the task assumptions
 const solution = numbers => {
   const expectedSumWithMissingElement =
     ((numbers.length + 2) * (numbers.length + 1)) / 2;
